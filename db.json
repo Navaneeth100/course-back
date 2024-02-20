@@ -1,0 +1,116 @@
+{
+  "student": [
+    {
+      "student_name": "Navaneeth Kp",
+      "phone": "8891123221",
+      "email": "navaneethkp100@gmail.com",
+      "gender": "Male",
+      "course": "MEARN Stack",
+      "course_method": "Offline",
+      "date": "2003-03-27",
+      "country": "India",
+      "profile": "Navaneeth.png",
+      "documents": "NavaneethAadhar.pdf",
+      "images": [
+        {}
+      ],
+      "id": 1
+    },
+    {
+      "student_name": "Sanjay Kk",
+      "phone": "9876543234",
+      "email": "sanju123@gmail.com",
+      "gender": "Male",
+      "course": "Data Science",
+      "course_method": "Online",
+      "date": "2003-12-24",
+      "country": "India",
+      "profile": "Sanjay.png",
+      "documents": "SanjayAadhar.png",
+      "images": [
+        {}
+      ],
+      "id": 2
+    },
+    {
+      "student_name": "Avinash P",
+      "phone": "9896542345",
+      "email": "avi12345@gmail.com",
+      "gender": "Male",
+      "course": "Python Django",
+      "course_method": "Online",
+      "date": "2002-04-17",
+      "country": "India",
+      "profile": "Avinash.png",
+      "documents": "AvinashAadhar.pdf",
+      "images": [
+        {}
+      ],
+      "id": 3
+    },
+    {
+      "student_name": "Rahul Raj",
+      "phone": "8876543245",
+      "email": "rahulkp@gmail.com",
+      "gender": "Male",
+      "course": "Flutter",
+      "course_method": "Online",
+      "date": "2002-09-19",
+      "country": "India",
+      "profile": "Rahul.png",
+      "documents": "RahulAadhar.pdf",
+      "images": [
+        {}
+      ],
+      "id": 4
+    },
+    {
+      "student_name": "Aman Mk",
+      "phone": "8877665511",
+      "email": "aman@gmail.com",
+      "gender": "Male",
+      "course": "MEARN Stack",
+      "course_method": "Offline",
+      "date": "2001-09-05",
+      "country": "India",
+      "profile": "Aman.png",
+      "documents": "AmanAadhar.pdf",
+      "images": [
+        {}
+      ],
+      "id": 5
+    },
+    {
+      "student_name": "Fathima P",
+      "phone": "8965432784",
+      "email": "fathi@gmail.com",
+      "gender": "Female",
+      "course": "Flutter",
+      "course_method": "Offline",
+      "date": "2005-02-07",
+      "country": "India",
+      "profile": "Fathima.png",
+      "documents": "FathimaAadhar.pdf",
+      "images": [
+        {}
+      ],
+      "id": 6
+    },
+    {
+      "student_name": "Aiswarya K",
+      "phone": "9876543511",
+      "email": "aishu13@gmail.com",
+      "gender": "Female",
+      "course": "Python Django",
+      "course_method": "Online",
+      "date": "2001-12-04",
+      "country": "India",
+      "profile": "Aiswarya.png",
+      "documents": "AiswaryaAadhar.pdf",
+      "images": [
+        {}
+      ],
+      "id": 7
+    }
+  ]
+}
